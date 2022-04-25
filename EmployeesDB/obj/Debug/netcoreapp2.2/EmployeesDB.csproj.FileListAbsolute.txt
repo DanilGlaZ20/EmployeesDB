@@ -1,0 +1,13 @@
+C:\Users\79777\RiderProjects\EmployeesDB\EmployeesDB\bin\Debug\netcoreapp2.2\EmployeesDB.deps.json
+C:\Users\79777\RiderProjects\EmployeesDB\EmployeesDB\bin\Debug\netcoreapp2.2\EmployeesDB.runtimeconfig.json
+C:\Users\79777\RiderProjects\EmployeesDB\EmployeesDB\bin\Debug\netcoreapp2.2\EmployeesDB.runtimeconfig.dev.json
+C:\Users\79777\RiderProjects\EmployeesDB\EmployeesDB\bin\Debug\netcoreapp2.2\EmployeesDB.dll
+C:\Users\79777\RiderProjects\EmployeesDB\EmployeesDB\bin\Debug\netcoreapp2.2\EmployeesDB.pdb
+C:\Users\79777\RiderProjects\EmployeesDB\EmployeesDB\obj\Debug\netcoreapp2.2\EmployeesDB.csproj.AssemblyReference.cache
+C:\Users\79777\RiderProjects\EmployeesDB\EmployeesDB\obj\Debug\netcoreapp2.2\EmployeesDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79777\RiderProjects\EmployeesDB\EmployeesDB\obj\Debug\netcoreapp2.2\EmployeesDB.AssemblyInfoInputs.cache
+C:\Users\79777\RiderProjects\EmployeesDB\EmployeesDB\obj\Debug\netcoreapp2.2\EmployeesDB.AssemblyInfo.cs
+C:\Users\79777\RiderProjects\EmployeesDB\EmployeesDB\obj\Debug\netcoreapp2.2\EmployeesDB.csproj.CoreCompileInputs.cache
+C:\Users\79777\RiderProjects\EmployeesDB\EmployeesDB\obj\Debug\netcoreapp2.2\EmployeesDB.dll
+C:\Users\79777\RiderProjects\EmployeesDB\EmployeesDB\obj\Debug\netcoreapp2.2\EmployeesDB.pdb
+C:\Users\79777\RiderProjects\EmployeesDB\EmployeesDB\obj\Debug\netcoreapp2.2\EmployeesDB.genruntimeconfig.cache
